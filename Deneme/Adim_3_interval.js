@@ -1,6 +1,6 @@
 var sayi=1;
 var interval=setInterval(function() {
-    if(sayı==5)
+    if(sayi==5)
     {
         clearInterval(interval);
     }
