@@ -1,1 +1,1 @@
-console.log("Merhaba Kadir!! Ne ayaksın becerdin heralde yürü beee")
+console.log("Merhaba Kadir!! Ne ayaksın becerdin heralde yürü bea")
