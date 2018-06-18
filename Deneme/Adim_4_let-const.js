@@ -10,4 +10,4 @@ for (let index = 0; index < 5; index++) {
 
 //let birden çok kullanıma kapalı 
 //var istediğin kadar tanımlarnı
-//const değer değiştirilemez
+//const değer değiştirilemez listede ise değer eklenebilir
